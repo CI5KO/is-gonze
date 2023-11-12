@@ -1,0 +1,16 @@
+{
+  "theme_color": "#c0bcb8",
+  "background_color": "#6b6a68",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "Is Gonzalo Fired",
+  "short_name": "IGF",
+  "description": "App that advise you if Gonzalo is fired yet",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "192x192"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "test": {
+    "helloMessage": "Hola a todos!"
+  },
+  "header": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "contact": "Contacto"
+  }
+}

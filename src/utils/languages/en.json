@@ -1,0 +1,10 @@
+{
+  "test": {
+    "helloMessage": "Hello everyone!"
+  },
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  }
+}
